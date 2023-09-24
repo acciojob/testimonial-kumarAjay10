@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#eg1{
+	background-color: #f5f5f5;
+	padding:10px;
+}
+/* .eg2{ */
+	padding:10px;
+/* } */
+.eg3{
+	background-color:white;
+	border:0px solid black;
+	padding:10px;
+	height:80px;
+}
+.eg4{
+	background-color:white;
+	border:0px solid black;
+	padding:10px;
+	margin-top:10px;
+	height:80px;
+}
+.eg5{
+	text-align:right;
+	font-style:italic;
+}
